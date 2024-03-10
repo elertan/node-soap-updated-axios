@@ -1,3 +1,8 @@
+1.0.1 / 2024-3-10
+===================
+* [FIX] updated package name
+* [FIX] update axios version
+
 1.0.0 / 2022-12-09
 ===================
 * [ENHANCEMENT] allow soap.createClient to create a new SOAP client from a WSDL string (#1191)
